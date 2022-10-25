@@ -6,11 +6,11 @@
 // Faça a soma de A e B atribuindo o seu resultado na variável X (total de pimentões). Apresente X como descrito na mensagem de exemplo abaixo.
 // Não apresente outra mensagem além da mensagem especificada.
 
-let line = gets().split(" ");
-let A = parseInt(line[0]);
-let B = parseInt(line[1]);
-let total = 0;
+let line = gets().split(" ")
+let A = parseInt(line[0])
+let B = parseInt(line[1])
+let total = 0
 
-total = A + B;
+total = A + B
 
-console.log("X = " + total);
+console.log("X = " + total)
