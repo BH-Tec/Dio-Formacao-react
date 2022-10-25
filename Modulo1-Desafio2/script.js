@@ -4,11 +4,11 @@
 // Quando a pizza chegou perceberam que ela havia sido mal cortada, o que gerou uma briga entre eles para saber quantos pedaços cada um comeria.
 // Ajude as tartarugas ninja escrevendo um programa que a partir de um dado o número de cortes retorna o número máximo de fatias possíveis.
 
-function findMaximumPieces(n) {
+function numeroMaximoFatias(n) {
   return 1 + (n * (n + 1)) / 2
 }
 
-let valor = gets()
-let valorInteiro = parseInt(valor)
+let qtd = gets()
+let qtdInteiro = parseInt(qtd)
 
-print(findMaximumPieces(valorInteiro))
+print(numeroMaximoFatias(qtdInteiro))
