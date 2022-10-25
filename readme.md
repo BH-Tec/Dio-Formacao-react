@@ -32,6 +32,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Desafio de Código - Formação React Developer
 
-- [Visita na Feira](./Modulo1-Desafio1/script.js)
-- [Tartarugas Ninja](./Modulo1-Desafio2/script.js)
-- [Arrays Pares](./Modulo1-Desafio3/script.js)
+- Visita na Feira [veja aqui](./Modulo1-Desafio1/script.js)
+- Tartarugas Ninja [veja aqui](./Modulo1-Desafio2/script.js)
+- Arrays Pares [veja aqui](./Modulo1-Desafio3/script.js)
+
+### Desafio de Código - Formação React Developer II
+
+- Tuitando [veja aqui](./Modulo2-Desafio1/script.js)
+- Patinhos [veja aqui](./Modulo2-Desafio2/script.js)
+- Validação de Nota [veja aqui](./Modulo2-Desafio3/script.js)
